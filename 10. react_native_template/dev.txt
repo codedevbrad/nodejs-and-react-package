@@ -1,0 +1,5 @@
+
+> add a custom font.
+> make a copy and move to gmail application.
+> get the google auth working and work through each login process.
+> think about how I might secure the auth state through screens. 
